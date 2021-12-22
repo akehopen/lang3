@@ -1,4 +1,4 @@
-package com.akehcloud.lang3.tuple;
+package org.akehopen.lang3.tuple;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
